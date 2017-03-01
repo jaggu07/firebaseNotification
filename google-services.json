@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951607973615",
+    "firebase_url": "https://sample-b93de.firebaseio.com",
+    "project_id": "sample-b93de",
+    "storage_bucket": "sample-b93de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951607973615:android:3e6da8744fcb0b6f",
+        "android_client_info": {
+          "package_name": "com.ionicframework.firebasenotification634010"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951607973615-24nebm6f10u7e03d3gi0pvqgjhfddb81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-u0q24B3AQuZvH1bmHBalP8w9EqpaZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
